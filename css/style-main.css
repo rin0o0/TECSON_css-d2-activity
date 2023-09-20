@@ -8,12 +8,16 @@
 
 body {
     background-color: #242325;
-    padding: 5rem;
+   
 }
 
+main {
+    padding: 5rem;
+}
 
 .box {
     background-color: chocolate;
     width: 32rem;
     height: 20rem;    
 }
+
